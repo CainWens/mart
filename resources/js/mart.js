@@ -1,8 +1,6 @@
 import { MathUtils, Vector2, Vector3, CatmullRomCurve3 } from "https://esm.sh/three";
 import * as TWEEN from "https://esm.sh/three/addons/libs/tween.module.js";
 
-
-
 let uY = (val) => cnv.height * 0.01 * val;
 let uX = (val) => cnv.width * 0.01 * val;
 
