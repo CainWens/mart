@@ -7,7 +7,7 @@
     <title>Cain Wens</title>
 
     <!-- Scripts -->
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
+    @vite(['resources/sass/app.scss', 'resources/js/app.js', 'resources/js/mart.js'])
 </head>
 <body class="bg-mart">
     <div id="app" class="min-h-svh w-full">

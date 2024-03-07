@@ -5,7 +5,7 @@
  */
 
 import './bootstrap';
-import './mart.js'
+
 import { createApp } from 'vue';
 
 /**
